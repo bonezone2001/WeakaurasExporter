@@ -1,0 +1,10 @@
+## Interface: 100200
+## Title: WeakAurasExporter
+## Author: Nevaa
+## Version: 1.0.0
+## X-Flavor: Mainline
+## DefaultState: Enabled
+## Dependencies: WeakAuras
+
+WeakAurasFuncs.lua
+WeakAurasExporter.lua
